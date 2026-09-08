@@ -1,2 +1,8 @@
 # fpga-market-data-engine
-A FPA hardware pipeline that receives simulated financial market data and processes it in real time.
+An FPGA-based pipelined SystemVerilog processor for streaming market data.
+
+## Technologies
+- SystemVerilog
+- Python
+- FPGA Development Tools
+- Git
