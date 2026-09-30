@@ -1,0 +1,13 @@
+==============================
+MARKET DATA RTL VERIFICATION
+==============================
+
+Transactions Tested : 898
+Correct Outputs     : 898
+Errors              : 0
+
+Signals             : BUY=137  SELL=208  HOLD=553
+Latency             : 3-3 cycles (30 ns at 100 MHz)
+Max Throughput      : 1 transaction/cycle (100 M transactions/s at 100 MHz)
+
+PASS
